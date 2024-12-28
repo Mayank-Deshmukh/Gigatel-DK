@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "KSCTS1/beYAHmO+nF5YJzasFErd8d40h7EetPac7ue8=",
+  "Source": "GigatelSolutionsWebsite.Server",
+  "BasePath": "_content/GigatelSolutionsWebsite.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\kanha\\OneDrive\\Desktop\\GigatelSolutionsWebsite\\gigatelsolutionswebsite.client\\gigatelsolutionswebsite.client.esproj",
+      "Version": 2,
+      "Source": "gigatelsolutionswebsite.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,2 @@
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\gigatelsolutionswebsite.client\obj\Debug\gigatelsolutionswebsite.client.esproj.CoreCompileInputs.cache
+C:\Users\kanha\OneDrive\Desktop\GigatelSolutionsWebsite\gigatelsolutionswebsite.client\obj\Debug\gigatelsolutionswebsite.client.esproj.CoreCompileInputs.cache

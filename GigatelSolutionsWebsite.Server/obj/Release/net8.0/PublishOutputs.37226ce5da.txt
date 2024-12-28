@@ -1,0 +1,12 @@
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\GigatelSolutionsWebsite.Server.exe
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\GigatelSolutionsWebsite.Server.dll
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\GigatelSolutionsWebsite.Server.deps.json
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\GigatelSolutionsWebsite.Server.runtimeconfig.json
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\GigatelSolutionsWebsite.Server.pdb
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kanhahiya\Desktop\GigatelSolutionsWebsite\GigatelSolutionsWebsite.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

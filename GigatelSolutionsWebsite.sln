@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigatelSolutionsWebsite.Server", "GigatelSolutionsWebsite.Server\GigatelSolutionsWebsite.Server.csproj", "{F148439A-DE05-4BE0-90AE-E6A132092DBB}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "gigatelsolutionswebsite.client", "gigatelsolutionswebsite.client\gigatelsolutionswebsite.client.esproj", "{617C84CC-064D-498A-B621-D1FED616BE8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F148439A-DE05-4BE0-90AE-E6A132092DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F148439A-DE05-4BE0-90AE-E6A132092DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F148439A-DE05-4BE0-90AE-E6A132092DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F148439A-DE05-4BE0-90AE-E6A132092DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617C84CC-064D-498A-B621-D1FED616BE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617C84CC-064D-498A-B621-D1FED616BE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617C84CC-064D-498A-B621-D1FED616BE8E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{617C84CC-064D-498A-B621-D1FED616BE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617C84CC-064D-498A-B621-D1FED616BE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617C84CC-064D-498A-B621-D1FED616BE8E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

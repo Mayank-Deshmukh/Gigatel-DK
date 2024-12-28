@@ -52,22 +52,22 @@
 
 
 :root {
-  --text-color: #f04d49;
-  --text-color-2: #6ab563;
-  --background-color: #FFFAF4;
-  --accent-color: #4a6db0;
-  --accent-color-2: #4a6db0;
-  --accent-color-3: #4a6db0;
-  --accent-color-4: #4a6db0;
-  --accent-color-5: #4a6db0;
-  --accent-color-6: #4a6db0;
-  /* --font-1: "Amaranth", serif;
+    --text-color: #f04d49;
+    --text-color-2: #232b2b;
+    --background-color: #FFFAF4;
+    --accent-color: #4a6db0;
+    --accent-color-2: #4a6db0;
+    --accent-color-3: #4a6db0;
+    --accent-color-4: #4a6db0;
+    --accent-color-5: #4a6db0;
+    --accent-color-6: #4a6db0;
+    /* --font-1: "Amaranth", serif;
   font-weight: 400;
   font-style: normal;*/
-  --font-1: "Afacad Flux", serif;
-  font-optical-sizing: auto;
-  font-style: normal;
-  font-variation-settings: "slnt" 0;
+    --font-1: "Afacad Flux", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
 }
 
 body {
@@ -584,10 +584,10 @@ a {
 
 
 .linear-gradient {
-  padding: 20px;
-  background: linear-gradient(270deg, #f04d49 0%, #f04d49 100%);
-  border-radius: 50px;
-  width: max-content;
+    padding: 20px;
+    background: linear-gradient(270deg, #f04d49 0%, #f04d49 100%);
+    border-radius: 50px;
+    width: max-content;
 }
 
 .cta-overlay {
